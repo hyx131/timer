@@ -1,8 +1,5 @@
 let arr = process.argv.slice(2);
 
-
-
-
 const timer = function(arr) {
   for (let item of arr) {
     if (item > 0) {
